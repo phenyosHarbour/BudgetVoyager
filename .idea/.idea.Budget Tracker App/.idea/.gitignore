@@ -1,0 +1,38 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.Budget Tracker App.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Build Folders
+bin/
+obj/
+
+# JetBrains Rider / Resharper
+*.sln.iml
+*.csproj.user
+.idea/
+*.DotSettings.user
+*.suo
+*.user
+*.userprefs
+*.cache
+*.log
+*.lock.json
+
+# Visual Studio
+.vs/
+
+# Packages
+*.nupkg
+packages/
+
+# Others
+*.DS_Store
