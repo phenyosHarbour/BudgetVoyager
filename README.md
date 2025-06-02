@@ -1,4 +1,9 @@
+
+
 # Budget Tracker App
+
+![image](https://github.com/user-attachments/assets/30726a30-1c5a-4cbc-8c88-39245649367f)
+
 
 A simple WPF desktop application for tracking personal income and expenses, built with C# 12 and .NET 8.
 
